@@ -107,7 +107,7 @@ class _SplashScreenState extends State<SplashScreen> with SingleTickerProviderSt
 
                         // App Title with Cyberpunk Multi-Shadow Glow
                         const Text(
-                          'NEON CARDS',
+                          'LearnMate',
                           style: TextStyle(
                             fontSize: 38,
                             fontWeight: FontWeight.bold,
