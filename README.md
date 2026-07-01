@@ -18,17 +18,14 @@ A modern Flutter flashcard application designed to help users learn and memorize
 
 ## 📸 Screenshots
 
-### Splash Screen
-(Add Screenshot Here)
+# 📸 App Preview
 
-### Home Screen
-(Add Screenshot Here)
-
-### Flashcard Screen
-(Add Screenshot Here)
-
-### Add Flashcard
-(Add Screenshot Here)
+<p align="center">
+  <img src="screenshots/splashscreen.jpeg" width="180"/>
+  <img src="screenshots/homescreen.jpeg" width="180"/>
+  <img src="screenshots/FlipDeck.jpeg" width="180"/>
+  <img src="screenshots/Aigenrator.jpeg" width="180"/>
+</p>
 
 ---
 
@@ -114,32 +111,6 @@ GitHub: https://github.com/iqraatech
 LinkedIn:
 https://www.linkedin.com/in/iqra-faisal-a135b3323
 
-# Screenshots
-
-## Splash Screen
-
-![splashscreen.jpeg](screenshots/splashscreen.jpeg)
-
-## Home Screen
-
-![homescreen.jpeg](screenshots/homescreen.jpeg)
-
-## Flashcards
-
-![FlipDeck.jpeg](screenshots/FlipDeck.jpeg)
-
-## Add Flashcard
-
-![addflascard.jpeg](screenshots/addflascard.jpeg)
-
-## Add Favourites
-![FavouriteDecks.jpeg](screenshots/FavouriteDecks.jpeg)
-
-## Add Card
-![card.jpeg](screenshots/card.jpeg)
-
-## Add Aigenerator
-![Aigenrator.jpeg](screenshots/Aigenrator.jpeg)
 
 ---
 
